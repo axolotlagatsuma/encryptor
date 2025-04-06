@@ -1,3 +1,7 @@
+# Example stuff
+encrypted.txt
+source.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
