@@ -1,4 +1,24 @@
 {
   "projectName": "encryptor",
-  "projectOwner": "axolotlagatsuma"
+  "projectOwner": "axolotlagatsuma",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "axolotlagatsuma",
+      "name": "Mükremin Yağız Yaşar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154734794?v=4",
+      "profile": "http://axolotlagatsuma.github.io",
+      "contributions": [
+        "projectManagement",
+        "maintenance",
+        "code",
+        "infra"
+      ]
+    }
+  ]
 }
