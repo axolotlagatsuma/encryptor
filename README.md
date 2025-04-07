@@ -13,6 +13,8 @@
   - [Built With](#built-with)
 - [Getting Started](#getting-started)
   - [Usage](#usage)
+    - [Encryption](#encryption)
+    - [Decryption](#decryption)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [Maintainers](#maintainers)
@@ -35,11 +37,11 @@ This is a math project given by one of my teachers. It's about encryption and de
 ### Usage
 To use the app simply clone the repository then run the `app.py` file with the correct options. An example would be :
 
-Encryption
+#### Encryption
 ```
 python app.py -s source.txt -e encrypted.txt -a axooencrypt -m encrypt
 ```
-Decryption
+#### Decryption
 ```
 python app.py -s encrypted.txt -e decrypted.txt -a axooencrypt -m decrypt
 ```
